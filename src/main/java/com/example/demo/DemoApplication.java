@@ -15,6 +15,6 @@ public class DemoApplication {
 
 	@RequestMapping("/")
 	String sayHello() {
-		return "Upskilling Demo";
+		return "Try Update12";
 	}
 }
