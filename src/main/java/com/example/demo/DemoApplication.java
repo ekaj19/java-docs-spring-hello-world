@@ -15,6 +15,6 @@ public class DemoApplication {
 
 	@RequestMapping("/")
 	String sayHello() {
-		return "CI/CD Java pipeline";
+		return "CI/CD Java pipeline - Demo update";
 	}
 }
